@@ -1,1 +1,3 @@
-# spring_boot_jwt_authentication_gateway-service
+# spring_boot_microservice_gateway-service
+
+See https://github.com/Shellbye/spring_boot_microservice_demo for whole picture
